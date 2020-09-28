@@ -1,0 +1,13 @@
+.header a {
+  color: var(--white);
+  margin-right: 0.5rem;
+}
+
+.header a:hover {
+  text-decoration: none;
+  color: var(--gray);
+}
+
+.header a:last-of-type {
+  margin-right: 0;
+}

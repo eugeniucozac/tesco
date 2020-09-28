@@ -1,0 +1,36 @@
+.card {
+  margin-bottom: 1.5rem;
+}
+
+.price {
+  margin-top: 1rem;
+  justify-content: space-between;
+}
+
+.card span {
+  font-size: 0.75rem;
+  color: var(--white);
+  float: right;
+}
+
+.card form {
+  margin-top: 2rem;
+}
+
+.card p {
+  font-size: 0.75rem;
+}
+
+.footer {
+  background-color: transparent;
+  border-top: none;
+  padding: 0;
+  text-align: center;
+  height: 1rem;
+}
+
+.footer p {
+  margin-bottom: 0;
+  color: var(--green);
+  font-weight: bold;
+}

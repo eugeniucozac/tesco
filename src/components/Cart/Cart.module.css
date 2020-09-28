@@ -1,0 +1,21 @@
+.cart {
+  margin-top: 5rem;
+}
+
+.amount {
+  margin-top: 0.5rem;
+}
+
+.product {
+  margin-bottom: 1rem;
+}
+
+.value {
+  text-align: right;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.quantity {
+  margin: 0 1rem;
+}

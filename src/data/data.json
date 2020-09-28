@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Magners",
+    "description": "Apple Cider 4 X 330Ml",
+    "available": 30,
+    "price": 4,
+    "promotion": false
+  },
+  {
+    "id": 2,
+    "name": "Magners Rose",
+    "description": "Irish Cider 4 X 330Ml",
+    "available": 50,
+    "price": 4.2,
+    "promotion": false
+  },
+  {
+    "id": 3,
+    "name": "Hobgoblin Ipa",
+    "description": "Pack size 500Ml",
+    "available": 10,
+    "price": 2,
+    "promotion": {
+      "id": "a9bb75d4",
+      "name": "buy 3 get 1 free"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Coca Cola",
+    "description": "Original 1 Litre",
+    "available": 30,
+    "price": 3,
+    "promotion": false
+  },
+  {
+    "id": 5,
+    "name": "Diet Coke",
+    "description": "Diet Coke 2 Litre",
+    "available": 20,
+    "price": 5,
+    "promotion": {
+      "id": "a9bb737c",
+      "name": "2 for £8"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Branston Beans",
+    "description": "Baked In Tomato Sauce 410G",
+    "available": 40,
+    "price": 1.8,
+    "promotion": false
+  },
+  {
+    "id": 7,
+    "name": "Fine Beans",
+    "description": "Costco Beans 200G",
+    "available": 30,
+    "price": 1,
+    "promotion": {
+      "id": "a9bb76c4",
+      "name": "3 for price of 2"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Chopped Tomatoes",
+    "description": "Harvest Chopped Tomatoes 400G",
+    "available": 60,
+    "price": 2.4,
+    "promotion": false
+  },
+  {
+    "id": 9,
+    "name": "Birra Moretti",
+    "description": "Birra Moretti 660Ml",
+    "available": 10,
+    "price": 4,
+    "promotion": false
+  },
+  {
+    "id": 10,
+    "name": "Sparkling Water",
+    "description": "San Pellegrino 10 Litre",
+    "available": 40,
+    "price": 8,
+    "promotion": false
+  },
+  {
+    "id": 11,
+    "name": "Still Water",
+    "description": "Costco 20 Litre",
+    "available": 30,
+    "price": 11,
+    "promotion": false
+  },
+  {
+    "id": 12,
+    "name": "Fanta Orange",
+    "description": "2 Litre Bottle",
+    "available": 50,
+    "price": 4,
+    "promotion": false
+  }
+]
