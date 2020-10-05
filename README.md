@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Shopping Cart on ReactJS and Redux
 
 This is shopping cart for grocery store like Tesco.
 
